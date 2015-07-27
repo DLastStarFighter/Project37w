@@ -1,0 +1,11 @@
+\\psf\home\documents\visual studio 2013\Projects\Project37Server\Project37Server\bin\Debug\Project37Server.exe.config
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\Project37Server.exe.config
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\Project37Server.exe
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\Project37Server.pdb
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\obj\Debug\Project37Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\obj\Debug\Project37Server.exe
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\obj\Debug\Project37Server.pdb
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\XenFoundation.dll
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\XenNet.dll
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\XenFoundation.pdb
+C:\Users\Administrator\Documents\tmp\Project37Server\sourcecode\Project37Server\Project37Server\bin\Debug\XenNet.pdb
