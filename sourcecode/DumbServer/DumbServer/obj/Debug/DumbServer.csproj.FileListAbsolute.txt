@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\obj\Debug\DumbServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\ServerExample.exe.config
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\ServerExample.exe
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\ServerExample.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\XenFoundation.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\XenNet.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\XenFoundation.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\bin\Debug\XenNet.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\obj\Debug\ServerExample.exe
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\DumbServer\DumbServer\obj\Debug\ServerExample.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenFoundation\bin\Debug\XenFoundation.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenFoundation\bin\Debug\XenFoundation.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenFoundation\obj\Debug\XenFoundation.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenFoundation\obj\Debug\XenFoundation.pdb

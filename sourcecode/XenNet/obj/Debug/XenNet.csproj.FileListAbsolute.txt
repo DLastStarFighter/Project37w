@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\bin\Debug\XenNet.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\bin\Debug\XenNet.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\bin\Debug\XenFoundation.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\bin\Debug\XenFoundation.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\obj\Debug\XenNet.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\obj\Debug\XenNet.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\XenNet\obj\Debug\XenNet.pdb

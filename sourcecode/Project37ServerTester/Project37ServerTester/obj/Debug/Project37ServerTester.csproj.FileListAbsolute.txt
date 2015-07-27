@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester_MarkupCompile.cache
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester.g.resources
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester.Properties.Resources.resources
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\Project37ServerTester.exe.config
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\Project37ServerTester.exe
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\Project37ServerTester.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\XenFoundation.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\XenNet.dll
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\XenFoundation.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\bin\Debug\XenNet.pdb
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester.exe
+C:\Users\Administrator\Documents\Projects\Project37\sourcecode\Project37ServerTester\Project37ServerTester\obj\Debug\Project37ServerTester.pdb
